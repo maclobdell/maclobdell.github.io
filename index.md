@@ -1,6 +1,4 @@
-# Mac Lobdell, BSEE, MBA, IoT Specialist
-
-## Specializing in
+## Mac Lobdell, BSEE, MBA, IoT Specialist
 
 - Embedded Systems & Software
 - IoT Cloud Services
