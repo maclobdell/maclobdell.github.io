@@ -2,7 +2,7 @@
 
 - Embedded Systems & Software
 - IoT Cloud Services
-- Network Connectivity / Security
+- Network Connectivity & Security
 - Training & Support
 - Technical Account Management
 - Product Management
