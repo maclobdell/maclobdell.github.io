@@ -1,5 +1,7 @@
 ## Mac Lobdell, BSEE, MBA, IoT Specialist
 
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/88ac047f-fec5-4ce6-936e-5d9397104328/public_url)
+
 - Embedded Systems & Software
 - IoT Cloud Services
 - Network Connectivity & Security
@@ -10,8 +12,4 @@
 
 ## Need help with your IoT projects? 
 
-- Mbed OS Training
-- Pelion Device Management Training
-
-[Make a Training Request](https://forms.gle/YWMmRmTe8UR4F1Wv9)
-
+Contact [SpinDance](https://spindance.com)
