@@ -1,6 +1,6 @@
 ## Mac Lobdell, BSEE, MBA, IoT Specialist
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/88ac047f-fec5-4ce6-936e-5d9397104328/public_url)
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/023763ed-d5fe-4b50-82d0-d1a9ec42eeff/public_url)
 - Embedded Systems & Software
 - IoT Cloud Services
 - Network Connectivity & Security
