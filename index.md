@@ -11,4 +11,4 @@
 
 ## Need help with your IoT projects? 
 
-Contact [SpinDance](https://spindance.com) for IoT Training, Consulting, Architecture Design, and Development Services.
+Contact me on LinkedIn for IoT Consulting, Training, Architecture, or Development
