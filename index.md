@@ -1,4 +1,4 @@
-## Mac Lobdell, BSEE, MBA, IoT Solution Architect
+## Mac Lobdell, BSEE, MBA, IoT Solutions Architect
 
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/023763ed-d5fe-4b50-82d0-d1a9ec42eeff/public_url)
 - Embedded Systems & Software
@@ -8,7 +8,4 @@
 - Technical Account Management
 - Product Management
 - Ecosystem Partnerships
-
-## Need help with your IoT projects? 
-
-Contact me on LinkedIn for IoT Consulting, Training, Architecture, or Development
+- Electrical Engineering
